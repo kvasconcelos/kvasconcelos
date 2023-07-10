@@ -3,7 +3,7 @@
 ## About Me
 I am a web developer passionate about building amazing applications using technologies such as PHP Laravel, HTML, CSS, JavaScript, Vue.js, and Docker.
 
-- 🔭 I'm currently working at FGV as a FullStack Developer.
+- 🔭 I'm currently working as a FullStack Developer.
 - 🌱 I'm currently learning more about Go.
 - 👯 I'm looking to collaborate on open-source projects related to education.
 - 💬 Ask me about [areas of expertise].
@@ -19,12 +19,6 @@ I am a web developer passionate about building amazing applications using techno
 You can find me on the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/kleber-vasconcelos/)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ## Technologies
 Here are some of the technologies I work with:
