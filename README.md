@@ -6,7 +6,6 @@ I am a web developer passionate about building amazing applications using techno
 - 🔭 I'm currently working as a FullStack Developer.
 - 🌱 I'm currently learning more about Go.
 - 👯 I'm looking to collaborate on open-source projects related to education.
-- 💬 Ask me about [areas of expertise].
 
 ## Skills
 - **PHP Laravel**: I'm an expert in Laravel and have experience developing robust web applications using this framework.
