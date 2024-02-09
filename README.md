@@ -4,7 +4,7 @@
 I am a web developer passionate about building amazing applications using technologies such as PHP Laravel, HTML, CSS, JavaScript, Vue.js, and Docker.
 
 - 🔭 I'm currently working as a FullStack Developer.
-- 🌱 I'm currently learning more about Go.
+- 🌱 I'm currently learning more about Python.
 - 👯 I'm looking to collaborate on open-source projects related to education.
 
 ## Skills
